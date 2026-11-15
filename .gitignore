@@ -1,43 +1,41 @@
 # --- Copyrighted game data ---
-# Never commit the original .jar/.jad releases or anything extracted
-# straight from them (art, audio, level/script data, the class files
-# themselves).
+# Never commit original .jar/.jad files or extracted game assets (art, audio, level data).
 /roms/*.jar
 /roms/*.jad
 /betrayal/extracted/
 /android/app/src/main/assets/
 /android/app/src/main/cpp/SDL2/
+
+# --- Android build output & local SDK configuration ---
 .gradle/
 .cxx/
 build/
 local.properties
 *.apk
+*.aab
 .externalNativeBuild/
+captures/
 
-# --- Third-party tooling ---
-# Not project source; fetched locally, not tracked in git.
+# --- Third-party tooling & Python ---
 /tools/vineflower.jar
 /tools/midp-stubs/
-
-# --- Python ---
 __pycache__/
 *.pyc
 
-# --- PC port build output (regenerable via port/build.bat / CMake) ---
+# --- PC port build & runtime output ---
 /betrayal/port/build/
 /betrayal/port/build-dist/
 /betrayal/port/dist/
-/build_src/
-*.log
-
-# --- Port runtime output ---
-crash.txt
 /betrayal/port/saves/
-
-# --- Local Claude Code state ---
-/.claude/scheduled_tasks.lock
-/.claude/settings.local.json
-
-# Test output
+/build_src/
+crash.txt
 bench.txt
 exceptions.log
+*.log
+
+# --- OS & IDE files ---
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
