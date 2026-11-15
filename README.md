@@ -15,7 +15,7 @@ A native Android C++ port of *God of War: Betrayal*, forked from [samioan's Wind
 - ⚔️ **Touch Controls**: On-screen virtual buttons designed for mobile play, with multi-touch support and smooth fade-out during inactivity.
 - 🎮 **Controller Support**: Full support for Bluetooth and USB gamepads. The touch overlay automatically hides when a controller is connected.
 - ⚡ **High Refresh Rates (60 / 90 / 120 FPS)**: Motion interpolation matching your screen's refresh rate while keeping the original 25 TPS logic speed.
-- 🎵 **Optimized Audio**: Low-latency multithreaded audio engine without frame drops during combat.
+- 🎵 **Optimized Audio**: Low-latency multithreaded audio engine.
 - 📊 **FPS and TPS Counter**: Toggleable in the Options menu to monitor rendered FPS and logic ticks per second.
 - 📁 **External Files & Saves**: Stores game saves, settings, and logs in the `GOW-Betra/` folder on your storage, with automatic fallback to internal storage.
 - 🌐 **Widescreen & Multi-Language**: Widescreen support without stretching sprites, and fix for the original language selection bug.
