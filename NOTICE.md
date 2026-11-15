@@ -7,15 +7,9 @@ bytecode (see `betrayal/docs/`). It is not affiliated with, endorsed by, or
 supported by Sony Interactive Entertainment, Santa Monica Studio, Glu
 Mobile, Metaflow, or the game's original developers and publishers.
 
-## What this project does not contain, and never will
+## Game assets and distribution
 
-**The game.** No script, image, sound, string table or byte of the original
-`God-of-War-Betrayal_*.jar` release is committed here, and none is
-distributed with any release. See `.gitignore`. The Java under
-`betrayal/decompiled/` and `betrayal/src/` is decompiler output kept as the
-record of the reverse engineering, and the released executables contain code
-derived from it. Neither can run without the original game data, which you
-supply yourself.
+While the original PC project by samioan does not distribute the `.jar`, the Android version bundles the required assets directly within the APK for convenience. *God of War: Betrayal* (2007) is obsolete abandonware that is no longer commercially available or purchasable through any legal channel, and Sony has far bigger fish to fry than a retro J2ME phone game from nearly two decades ago. This project exists purely for video game preservation and mobile accessibility.
 
 ## Artwork and third-party code
 
