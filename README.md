@@ -26,7 +26,7 @@ A native Android C++ port of *God of War: Betrayal*, forked from [samioan's Wind
 
 Download the latest `.apk` from the **[Releases](https://github.com/SupaRj/gow-betrayal-remastered-Android-Native-port/releases)** page and install it on your Android device.
 
-*Note: The original game assets belong to their respective copyright holders and are not included.*
+*Note: The original game assets belong to their respective copyright holders and are included (I don't make any money from this project. It's purely for preservation, and the game is simply no longer available to buy legally today.).*
 
 ---
 
