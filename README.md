@@ -47,4 +47,5 @@ Download the latest `.apk` from the **[Releases](https://github.com/SupaRj/gow-b
 
 - Original reverse-engineering and Windows C++ port by [samioan](https://github.com/samioan/gow-betrayal-remastered).
 - Android Native Port, touch controls, audio optimization, and storage subsystem by [SupaRj](https://github.com/SupaRj/gow-betrayal-remastered-Android-Native-port) & Gemini 4 Argon.
+- **AI Disclosure**: This project was developed with the assistance of AI and is not 100% human-made.
 - This project is an independent educational preservation effort. It is not affiliated with, endorsed by, or supported by Sony Interactive Entertainment, Santa Monica Studio, Glu Mobile, or Metaflow. *God of War* is a registered trademark of Sony Interactive Entertainment LLC. See [NOTICE.md](NOTICE.md) for attribution and third-party licenses.
